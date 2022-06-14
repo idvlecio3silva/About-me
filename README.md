@@ -1,9 +1,9 @@
 # Olá, Seja bem-vindo ao meu Github 🤝
 
 
-Sou Consultor, Analista de Cibersegurança e Gestor de Programa e Projeto de TI, nesse momento na especialidade de Computação Forense e Recuperação e dados.
-- 🔭 Trabalho na TICNES - CyberSecurity Technologies
-- 🌱 Estou a estudar para obter certificações oficiais em cibersegurança
+Analista de Cibersegurança e Gestor de Programa e Projeto de TI.
+- 🌱 Correndo atrás das certificações oficiais em cibersegurança e de Gestão de Projectos
+- 💻 Administrador Linux e Desenvolvedor Web Júnior
 - 👯 Disponível para colaborar em diversos projetos de tecnologia
 - 📫 ida.infoseg@gmail.com
 
