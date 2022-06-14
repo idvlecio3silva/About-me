@@ -2,7 +2,6 @@
 
 
 Analista de Cibersegurança e Gestor de Programa e Projeto de TI.
-- 🌱 Correndo atrás das certificações oficiais em cibersegurança e de Gestão de Projectos
 - 💻 Administrador Linux e Desenvolvedor Web Júnior
 - 👯 Disponível para colaborar em diversos projetos de tecnologia
 - 📫 ida.infoseg@gmail.com
