@@ -4,7 +4,7 @@
 Analista de Cibersegurança e Gestor de Programa e Projeto de TI.
 - 💻 Administrador Linux e Desenvolvedor Web Júnior
 - 👯 Disponível para colaborar em diversos projetos de tecnologia
-- 📫 ida.infoseg@gmail.com
+- 📫 idaleciosilva.dev@gmail.com
 
 ## Redes Sociais
 <div style="display: inline_block">
