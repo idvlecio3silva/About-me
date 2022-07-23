@@ -1,7 +1,7 @@
 # Olá, Seja bem-vindo ao meu Github 🤝
 
 
-Analista de Cibersegurança e Gestor de Programa e Projeto de TI.
+Analista de Cibersegurança e Gestor de Programa e Projecto de TI.
 - 💻 Administrador Linux e Desenvolvedor Web Júnior
 - 👯 Disponível para colaborar em diversos projetos de tecnologia
 - 📫 Development: idaleciosilva.dev@gmail.com
