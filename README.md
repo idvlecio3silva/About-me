@@ -1,10 +1,10 @@
-# Olá, Seja bem-vindo ao meu Github 🤝
-- 💻 Analista de Cibersegurança, Administrador Linux e Gestor de Projectos de TI
-- 👯 Disponível para colaborar em projectos de tecnologia
+# Hi, welcome to my Github 🤝
+- 💻 Cybersecurity Analyst, Linux Administrator and IT Project Manager
+- 👯 Available to collaborate on technology projects
 - 📫 Development: idaleciosilva.dev@gmail.com
-- 📫 Cybersecurity e Linux: ida.infoseg@gmail.com
+- 📫 Cybersecurity and Linux: ida.infoseg@gmail.com
     
- ## Tecnologias Usadas
+ ## Technology tools used
 <div style="display: inline_block">
  <img height="35em" align="center" src="https://user-images.githubusercontent.com/66226187/180885577-6033a891-454f-4b49-94e1-0e9a87a35b6f.png" />
  <img height="35em" align="center" src="https://user-images.githubusercontent.com/66226187/180885584-414d00d9-e4a6-4675-adeb-0f911ba9659f.png" />
@@ -24,7 +24,7 @@
 
 </div>
  
- ## Redes Sociais
+ ## Social Medias
 <div style="display: inline_block"> 
     
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idaleciosilvatech/)
