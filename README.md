@@ -1,4 +1,4 @@
-# Hi, welcome to my Github 🤝
+# Hi, welcome to my GitHub 👩‍💻👍
 - 💻 Cybersecurity Analyst, Linux Administrator and IT Project Manager
 - 👨‍💻 Trying to be a Developer 
 - 👯 Available to collaborate on technology projects
