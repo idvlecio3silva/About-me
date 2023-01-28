@@ -1,8 +1,7 @@
 # Hi, welcome to my GitHub 👩‍💻👍
-- 💻 Cybersecurity Analyst, Linux Administrator and IT Project Manager
-- 👨‍💻 Trying to be a Developer 
+- 💻 Cybersecurity & Linux enthusiastic and IT Project Manager  
 - 👯 Available to collaborate on technology projects
-- 📫 Development: idaleciosilva.dev@gmail.com
+- 📫 Project Management: idaleciosilva.pm@gmail.com
 - 📫 Cybersecurity and Linux: ida.infoseg@gmail.com
     
  ## Technology tools used
